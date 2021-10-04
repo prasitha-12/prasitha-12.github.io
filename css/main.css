@@ -1,5 +1,7 @@
 body {
-  background-image:url("bg.jpg");
+  margin: 60px auto;
+  width: 70%;
+  background-image:url ("bg.jpg");
   background-size:cover;
 }
 h1 {
