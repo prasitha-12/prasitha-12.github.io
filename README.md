@@ -15,3 +15,4 @@ Config files for my GitHub profile.
 - README.md
 - _config.yml
 - index.html
+- bg.jpg
