@@ -2,7 +2,7 @@ body {
   margin: 60px auto;
   width: 70%;
   background-image: url ("bg.jpg");
-  background-size:cover;
+  background-size: cover;
 }
 h1 {
   font-size: 3em;
