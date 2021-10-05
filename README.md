@@ -14,5 +14,5 @@ Config files for my GitHub profile.
 - .gitignore
 - README.md
 - _config.yml
-- index.html
 - bg.jpg
+- index.html
